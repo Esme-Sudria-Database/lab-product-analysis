@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-cat accesslog-0.txt | python mapper.py
